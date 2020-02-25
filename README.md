@@ -7,13 +7,16 @@
 
 ### Prerequisites ###
 Что нужно установить на ПК для использования (например: Git, браузер и т.д.).
+
 На ПК потребуется установить программное обеспечение:
-- GitHub крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки
-- Веб-браузер [Google Chrome](https://www.google.ru/chrome/)
-- Редактор исходного кода [Visual Studio Code](https://code.visualstudio.com/)
+- [Веб-сервис для хостинга IT-проектов и их совместной разработки](https://github.com/)
+- [Веб-браузер](https://www.google.ru/chrome/)
+- [Редактор исходного кода](https://code.visualstudio.com/)
 
 ``` 
-Примеры
+GitHub
+Google Chrome Browser
+Visual Studio Code
 ```
 ### Установка и запуск ###
 Пошаговый процесс установки и запуска
